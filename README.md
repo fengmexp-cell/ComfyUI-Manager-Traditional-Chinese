@@ -10,3 +10,6 @@ ComfyUI/custom_nodes/ComfyUI-Manager/js/
 
 生效：
 按下 Ctrl + F5 強制重新整理瀏覽器即可看到中文介面。
+
+<img width="1005" height="529" alt="螢幕快照 2026-05-03 00-15-56" src="https://github.com/user-attachments/assets/2037cfd8-1639-4212-832f-92674d945e1f" />
+<img width="1078" height="538" alt="螢幕快照 2026-05-03 00-16-26" src="https://github.com/user-attachments/assets/906b1340-e455-4eab-a218-5b3089bb878e" />
